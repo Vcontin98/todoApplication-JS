@@ -1,0 +1,5 @@
+/* for disabled class pointer events should be all  */
+.disabled {
+
+  pointer-events: all !important;
+}
